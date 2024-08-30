@@ -1,6 +1,6 @@
-eno,ename
-1,lavan
-2,ramu
-3,gopi
-4,rajesh
-5,kavitha
+eno,ename,deptno
+1,lavan,10
+2,ramu,10
+3,gopi,20
+4,rajesh,30
+5,kavitha,20
